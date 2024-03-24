@@ -91,15 +91,14 @@ p {
     display: none;
   }
   .mb-3,
-  .para {
+  .para,
+  .mt-5 {
     text-align: center;
     margin: 0px 50px 0px -200px;
   }
-  .primary-link {
-    text-align: center;
-  }
+
   .pa,
   .bg {
-    margin: 0px -200px 0px 50px;
+    margin: 0px -400px 0px 100px;
   }
 }
