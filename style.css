@@ -5,7 +5,6 @@
 }
 
 body {
-  text-align: center;
   margin-top: 100px;
 }
 
@@ -109,5 +108,8 @@ p {
   }
   .email-link {
     margin: 0px -135px 0px 135px;
+  }
+  .about {
+    margin: 0 auto;
   }
 }
